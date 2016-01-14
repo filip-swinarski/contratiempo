@@ -6010,8 +6010,17 @@ p > video {
  * date: 14.01.2016
  */
 
+/* overrides */
+
+p {font-size: 70%; line-height: 200%;}
 .hentry {background-color: #020202;}
 .entry-footer {background-color: #020202;}
 .comments-area {background-color: #020202;}
 .site-footer {background-color: #020202;}
 button, input, select, textarea {background-color: #070707;}
+.secondary {background-color: #020202;}
+
+/* members about site */
+
+.band-members ul {list-style: none;}
+.band-members ul li {display: inline-block; background-color: #000; width: 32.82%; height: 200px;}

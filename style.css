@@ -6022,5 +6022,7 @@ button, input, select, textarea {background-color: #070707;}
 
 /* members about site */
 
+.band-members {padding: 0 10%;}
 .band-members ul {list-style: none;}
-.band-members ul li {display: inline-block; background-color: #000; width: 32.82%; height: 200px;}
+.band-members ul li {display: inline-block; background-color: #000; width: 30.1%; height: 200px; margin-right: 4%; margin-bottom: 3.1rem;}
+.band-members ul li.edge {margin-right: 0;}

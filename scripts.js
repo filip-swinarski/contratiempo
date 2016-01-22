@@ -1,17 +1,26 @@
 /* Custom js application for Contratiempo
  * namespace: CONTRA,
- * v. 0.1.0 19.01.2016 @filip-swinarski
+ * v. 0.1.2 19.01.2016 @filip-swinarski
  */
 
 var CONTRA = function() {
  
-   function test() {
-       console.log(1);
-   }
+    function test() {
+        console.log(0);
+    }
+    
+    // views
 
-   test();
+    // init
+    function init() {
+        
+        test();
+        
+    }
+
+   init();
 };
 
 window.addEventListener('load', function() {
     CONTRA();
-})
+});

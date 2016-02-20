@@ -18,7 +18,7 @@ __PL__
 ###O nas:
 
 Zespół CONTRATIEMPO powstał w roku 2003 jako duet gitarowy Filip Swinarski –
-Jarosław Czajczyński. w roku 2004 dołączyła do nas Marta Czapla. Z zespołem
+Jarosław Czajczyński. w roku 2004 dołączyła do nas Marta Guisado. Z zespołem
 występują tancerki flamenco, Dominika Kupniewska i Karolina Łucznik, oraz
 śpiewak Fernando Guisado – Ruiz.
 
@@ -26,9 +26,9 @@ Wykonujemy muzykę flamenco, grając zaaranżowane przez siebie utwory znanych
 wykonawców gatunku, a także własne kompozycje. Repertuar zespołu obejmuje
 tradycyjne style fiestowe, oraz rozbudowane utwory sceniczne, a także formy
 instrumentalne, wzbogacone o elementy innych gatunków muzyki, jak muzyka
-latynoska, arabska czy jazz.
+latynoska, orientalna czy jazz.
 
-Koncertowaliśmy w ośrodkach kultury, klubach i pubach w Łodzi, Toruniu,
+Koncertowaliśmy w ośrodkach kultury i klubach w Łodzi, Toruniu,
 Warszawie, Sosnowcu, Tarnowie, oraz uczestniczyliśmy w innych wydarzeniach
 kulturalnych. Mieliśmy zaszczyt występować i współpracować z wykonawcami
 flamenco z Polski oraz z zagranicy, między innymi Oscarem Guzmanem (Hiszpania),
@@ -36,9 +36,31 @@ Carmen Segura (Hiszpania), Vicky Barea (Hiszpania), Mateo El Gallito (Słowacja)
 
 W roku 2009 nawiązaliśmy współpracę z Filharmonią Narodową w Warszawie,
 Filharmonią Świętokrzyską i Filharmonią Łódzką grając audycje edukacyjne na
-terenia całej Polski.
+terenie całej Polski.
 
 __EN__ 
+
+###About us:
+
+The CONTRATIEMPO band was formes in 2003 as guitar duo - Filip Swinarski and
+Jarosław Czajczyński. Marta Guisado joined us in 2004. The band performs with
+flamenco dancers, Dominika Kupniewska and Karolina Łucznik, and flamenco
+singer, Fernando Guisado - Ruiz.
+
+We perform flamenco music, playing our arrangements of known flamenco
+performers and our own compositions. Band's repertoire consists of traditional
+fiesta styles, complex stage works and instrumental forms, enriched with
+elements taken from other music genere, like latin, oriental music or jazz.
+
+We played concerts in number of culture centers and clubs in Lodz, Torun,
+Warsaw, Sosnowiec, Tarnow and took part in other cultural events. We had the
+honor to perform and cooperate with flamenco performers from Poland and abroad
+with Oscar Guzman (Spain), Carmen Segura (Spain), Vicky Barea (Spain), Mateo el
+Gallito (Slovakia).
+
+In 2009 we started to cooperate with National Philharmonic in Warsaw,
+Swietokrzyska Philharmonic and Lodz Philharmonic, playing educational concerts
+across Poland.
 
 __ES__ 
 
@@ -62,6 +84,16 @@ okazję występować z Vicky Barea i Mateo El Gallito. Od kilku lat śpiewa
 flamenco. Współzałożyciel zespołu CONTRATIEMPO.
 
 __EN__ 
+
+He plays guitar since 1990, and become interested in flamenco in year 2000.
+Before flamenco, he dealt with music poetry and religious music, composing to
+lyrics. He accompanied number of performers and played his own compositions on
+nationwide reviews of music poetry and religious music. He performed in Piwnica
+Artystyczna "Przechowalnia", owned by Elżbieta Adamiak. He took part in
+Flamenco Festiwal in Lublin and subsequent editions of Flamenco Festiwal in
+Lodz. In 2007 he had opportunity to perform in Teatr Nowy in Lodz with Vicky
+Barea and Mateo el Gallito. He sings flamenco for few years. Co-founder of
+CONTRATIEMPO band.
 
 __ES__ 
 

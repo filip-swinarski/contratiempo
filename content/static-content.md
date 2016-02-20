@@ -1,19 +1,21 @@
-# CONTRATIEMPO STATIC SITES CONTENT #
-# includes bios and band info
-# Filip Swinarski filip.swinarski@gmail.com 19.02.2016 v 0.1
-# version: v 0.1 19.02.2016
+CONTRATIEMPO STATIC SITES CONTENT 
+=================================
 
-# TO DO:
+* includes bios and band info
+* Filip Swinarski filip.swinarski@gmail.com 19.02.2016 v 0.1
+* version: v 0.2 20.02.2016
 
-#       - English translation
-#       - Spanish translation
+* TO DO:
 
------------------------------------ O NAS ---------------------------------
+* English translation
+* Spanish translation
 
+O NAS 
+-----
 
-# PL #
+__PL__
 
-O nas:
+###O nas:
 
 Zespół CONTRATIEMPO powstał w roku 2003 jako duet gitarowy Filip Swinarski –
 Jarosław Czajczyński. w roku 2004 dołączyła do nas Marta Czapla. Z zespołem
@@ -36,17 +38,18 @@ W roku 2009 nawiązaliśmy współpracę z Filharmonią Narodową w Warszawie,
 Filharmonią Świętokrzyską i Filharmonią Łódzką grając audycje edukacyjne na
 terenia całej Polski.
 
-# EN #
+__EN__ 
 
-# ES #
-
-
-------------------------------- JAREK ------------------------------------
+__ES__ 
 
 
-# PL #
+JAREK
+------
 
-Jarosław Czajczyński:
+
+__PL__
+
+###Jarosław Czajczyński:
 
 Na gitarze gra od 1990 roku. Muzyką flamenco zainteresował się w roku 2000.
 Wcześniej zajmował się poezją śpiewaną oraz muzyką religijną, komponując muzykę
@@ -58,17 +61,17 @@ edycjach Festiwal Flamenco w Łodzi. W 2007 roku w Teatrze Nowym w Łodzi miał
 okazję występować z Vicky Barea i Mateo El Gallito. Od kilku lat śpiewa
 flamenco. Współzałożyciel zespołu CONTRATIEMPO.
 
-# EN #
+__EN__ 
 
-# ES #
+__ES__ 
+
+FILIP
+-----
 
 
----------------------------------- FILIP ---------------------------------
+__PL__
 
-
-# PL #
-
-Filip Swinarski:
+###Filip Swinarski:
 
 Gitarzysta flamenco. Akompaniator. Cajonista i palmero.
 
@@ -83,17 +86,17 @@ Barea, Juan Polvillo, Oscar Guzman, Noelia Sabarea. W roku 2003 zainicjował
 powstanie zespołu Contratiempo, który miał okazję współpracować m. in. z
 Filharmonią Narodową.
 
-# EN #
+__EN__ 
 
-# ES #
+__ES__ 
+
+KAROLINA
+--------
 
 
-------------------------------- KAROLINA ---------------------------------
+__PL__
 
-
-# PL #
-
-Karolina Łucznik:
+###Karolina Łucznik:
 
 Tancerka, choreograf i instruktorka tańca flamenco. Od wielu lat podnosi swoje
 kwalifikacje podczas wyjazdów do Hiszpanii, gdzie szkoliła się u takich mistrzów
@@ -105,17 +108,17 @@ Tańczyła w spektaklu muzyczno-tanecznym organizowanym przez zespół Los Payos
 (m.in. Dzień Uchodźcy na Agrykoli, Festiwal Cygański w Żyrardowie, Koncert
 85-lecia Chóru Uniwersytetu Warszawskiego).
 
-# EN #
+__EN__ 
 
-# ES #
+__ES__ 
+
+DOMINIKA
+--------
 
 
--------------------------------- DOMINIKA ---------------------------------
+__PL__
 
-
-# PL #
-
-Dominika Kupniewska:
+###Dominika Kupniewska:
 
 Tancerka, choreograf i instruktorka tańca flamenco. Od 2002 r związana z
 nastarszym centrum flamenco w Polsce – Studio Flamenco w Warszawie,
@@ -128,17 +131,18 @@ Marquez, Manuela Betanzosa, Pilar Ortegi i Isabel Bayon. Od 2004 współtworzy
 zespół Contratiempo, z którym uczestniczyła w wielu imprezach kulturalnych i
 koncertavch. W 2009 r rozpoczęła współpracę z Filharmonią Narodową.
 
-# EN #
+__EN__ 
 
-# ES #
-
-
------------------------------------ MARTA ---------------------------------
+__ES__ 
 
 
-# PL #
+MARTA
+-----
 
-Marta Guisado:
+
+__PL__
+
+###Marta Guisado:
 
 Absolwentka Akademii Muzycznej w Łodzi ( klasa gitary klasycznej ). Flamenco
 zajmuje się od 2002 roku. Pierwsze doświadczenia zdobywała w zespole „Los nińos
@@ -154,17 +158,17 @@ Miała okazję akompaniować wielu hiszpańskim śpiewakom i tancerzom, zarówno
 Polsce jak i podczas częstych wizyt w Sevilli, gdzie doskonali swoje
 umiejętności.
 
-# EN #
+__EN__ 
 
-# ES #
+__ES__ 
+
+FERNANDO
+--------
 
 
---------------------------------- FERNANDO -------------------------------
+__PL__
 
-
-# PL #
-
-Fernando Guisado Ruiz:
+###Fernando Guisado Ruiz:
 
 Urodzony w kolebce flamenco – cygańskiej dzielnicy Sewilli, Trianie, od
 dzieciństwa uczył się śpiewu flamenco – najpierw od swojej matki Dolores, a
@@ -176,6 +180,6 @@ Kanady. Jest wielbicielem nurtu cante jondo – pieśni gębokiej, a jego wzoram
 Camaron de la Isla i Manolo Caracol. Śpiew Fernando to autentyczny andaluzyjski
 temperament i emocje.
 
-# EN #
+__EN__ 
 
-# ES #
+__ES__ 

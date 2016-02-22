@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.9
+ Version:      1.0.10
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -83,7 +83,6 @@ button, input, select, textarea {background-color: #070707;}
 /* layout */
 
 .site-header {padding-bottom: 4%; padding-top: 4%;}
-.sidebar {position: relative !important;}
 
 @media screen and (min-width: 77.5em) {
     body::before {width: calc(50% - 405px);}
@@ -99,14 +98,6 @@ button, input, select, textarea {background-color: #070707;}
     .widget_archive li {padding: 5% 0}
 }
 
-@media screen and (max-width: 1360px) {
-    .site-title a {font-size: 1.2em;}
-}
-
-@media screen and (max-width: 782px) {
-    html.js {margin-top: 0 !important;}
-}
-
 @media screen and (min-width: 59.6875em) {
     body::before {width: calc(50% - 405px);}
     .site-header {padding-left: 9%; padding-right: 9%; margin-top: 12%;}
@@ -117,4 +108,19 @@ button, input, select, textarea {background-color: #070707;}
     .widget {padding-right: 9%; padding-left: 9%;}
     .site-main {padding-top: 4%;}
     .site-content {margin-left: 25.666%;}
+    .sidebar {max-width: 308px;}
 }
+
+@media screen and (min-width: 38.75em) {
+    .secondary {margin: 0}
+}
+
+@media screen and (max-width: 1360px) {
+    .site-title a {font-size: 1.2em;}
+}
+
+@media screen and (max-width: 782px) {
+    html.js {margin-top: 0 !important;}
+}
+
+

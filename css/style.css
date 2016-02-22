@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.10
+ Version:      1.0.11
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -16,9 +16,14 @@
 
 html, body, body::before {background-color: #000;}
 p {font-size: 80%; line-height: 200%; color: #777;}
-.hentry, .entry-footer, .comments-area, .site-footer, .sidebar {background-color: #020202;}
+.hentry, .entry-footer, .comments-area, .site-footer, .sidebar, .page-header, .page-content {background-color: #020202;}
+.page-header {border: 0;}
+.hentry {padding-top: 6%;}
 button, input, select, textarea {background-color: #070707;}
 .secondary {background-color: #020202;}
+.entry-content {padding-bottom: 0;}
+.page-header + .hentry, .page-header + .page-content {margin-top: 4%;}
+.comments-area {display: none;}
 
 /* custom classes */
 
@@ -26,7 +31,7 @@ button, input, select, textarea {background-color: #070707;}
 
 /* members about site */
 
-.band-members {padding: 0 10%;}
+.band-members {padding: 5% 10% 0 10%;}
 .band-members ul {list-style: none;}
 .band-members ul li {transition: background-size 1s; display: inline-block; background-color: #000; width: 30.1%; height: 200px; margin-right: 4%; margin-bottom: 3.1rem; background-size: 100%; background-repeat: no-repeat;}
 .band-members ul li:hover {background-size: 102%;}
@@ -106,9 +111,11 @@ button, input, select, textarea {background-color: #070707;}
     .main-navigation {margin-left: 9%; margin-right: 9%;}
     .social-navigation {margin-left: 9%; margin-right: 9%;}
     .widget {padding-right: 9%; padding-left: 9%;}
-    .site-main {padding-top: 4%;}
+    .site-main {padding-top: 4%; padding-bottom: 4%;}
     .site-content {margin-left: 25.666%;}
     .sidebar {max-width: 308px;}
+    .hentry + .hentry {margin-top: 4%; padding-top: 6%;}
+    .site-footer {margin-left: 32%;}
 }
 
 @media screen and (min-width: 38.75em) {
@@ -123,4 +130,15 @@ button, input, select, textarea {background-color: #070707;}
     html.js {margin-top: 0 !important;}
 }
 
+/* site footer */
 
+.site-footer .site-info {text-align: right;}
+
+/* search results */
+
+.no-results .page-content {margin-top: 4%; padding-top: 6%; padding-bottom: 6%;}
+
+/* post navigation */
+
+.post-navigation {margin-top: 4%;}
+.post-navigation .nav-next, .post-navigation .nav-previous {background-color: #020202;}

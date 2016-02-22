@@ -89,4 +89,28 @@ function twentyfifteen_entry_meta() {
 		echo '</span>';*/
 	}
 }
+/**
+ * Replaces "[...]" (appended to automatically generated excerpts) with ... and a 'Continue reading' link.
+ *
+ * @since Twenty Fifteen 1.0
+ *
+ * @return string 'Continue reading' link prepended with an ellipsis.
+ */
+function twentyfifteen_excerpt_more( $more ) {
+    $server=$_SERVER['REQUEST_URI'];
+    if (strpos($server, 'en_GB') !== false) {
+        $str = "more ";
+    } elseif (strpos($server, 'es_ES') !== false) {
+        $str = "más ";
+    } else {
+        $str = "wi&#281;cej ";
+    }
+    $link = sprintf( '<a href="%1$s" class="more-link">%2$s</a>',
+		esc_url( get_permalink( get_the_ID() ) ),
+		/* translators: %s: Name of current post */
+		sprintf( __( $str . '%s', 'twentyfifteen' ), '<span class="screen-reader-text">' . get_the_title( get_the_ID() ) . '</span>' )
+		);
+	return ' &hellip; ' . $link;
+}
+add_filter( 'excerpt_more', 'twentyfifteen_excerpt_more' );
 ?>

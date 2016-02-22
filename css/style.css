@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.6
+ Version:      1.0.7
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -75,3 +75,7 @@ button, input, select, textarea {background-color: #070707;}
 .gallery-columns-3 .gallery-item a img {height: 100%; max-width: none; width: auto; transform: scale(1); transition: transform 1s;}
 .gallery-columns-3 .gallery-item a:hover img {transform: scale(1.02);}
 
+/* error 404 */
+
+.error-404 .page-header, .error-404 .page-content {background: #020202;}
+.error-404 .page-header {border-left: 0;}

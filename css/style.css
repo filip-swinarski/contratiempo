@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.7
+ Version:      1.0.8
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -79,3 +79,41 @@ button, input, select, textarea {background-color: #070707;}
 
 .error-404 .page-header, .error-404 .page-content {background: #020202;}
 .error-404 .page-header {border-left: 0;}
+
+/* layout */
+
+.site-header {padding-bottom: 4%; padding-top: 4%;}
+
+@media screen and (min-width: 77.5em) {
+    body::before {width: calc(50% - 405px);}
+    .sidebar {width: 19.666%;}
+    .site-content {margin-left: 25.666%;}
+    .site-footer {margin-left: 32%;}
+    .site-header {margin-top: 12%; padding-left: 5%; padding-right: 5%;}
+    .main-navigation {margin-left: 5%; margin-right: 5%;}
+    .social-navigation {margin-left: 5%; margin-right: 5%;}
+    .widget {padding-right: 5%; padding-left: 5%;}
+    .site-main {padding-top: 4%;}
+    .site-title a {font-size: 1.3em;}
+    .widget_archive li {padding: 5% 0}
+}
+
+@media screen and (max-width: 1360px) {
+    .site-title a {font-size: 1.2em;}
+}
+
+@media screen and (max-width: 782px) {
+    html.js {margin-top: 0 !important;}
+}
+
+@media screen and (min-width: 59.6875em) {
+    body::before {width: calc(50% - 405px);}
+    .site-header {padding-left: 9%; padding-right: 9%; margin-top: 12%;}
+    .main-navigation {margin-left: 9%; margin-right: 9%;}
+    .sidebar {width: 22%;}
+    .main-navigation {margin-left: 9%; margin-right: 9%;}
+    .social-navigation {margin-left: 9%; margin-right: 9%;}
+    .widget {padding-right: 9%; padding-left: 9%;}
+    .site-main {padding-top: 4%;}
+    .site-content {margin-left: 25.666%;}
+}

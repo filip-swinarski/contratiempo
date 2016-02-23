@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.11
+ Version:      1.0.12
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -22,6 +22,8 @@ p {font-size: 80%; line-height: 200%; color: #777;}
 button, input, select, textarea {background-color: #070707;}
 .secondary {background-color: #020202;}
 .entry-content {padding-bottom: 0;}
+.entry-content {padding-bottom: 6%;}
+.entry-content + .entry-footer {padding-top: 0;}
 .page-header + .hentry, .page-header + .page-content {margin-top: 4%;}
 .comments-area {display: none;}
 
@@ -31,10 +33,10 @@ button, input, select, textarea {background-color: #070707;}
 
 /* members about site */
 
-.band-members {padding: 5% 10% 0 10%;}
+.band-members {padding: 0 10% .2% 10%;}
 .band-members ul {list-style: none;}
-.band-members ul li {transition: background-size 1s; display: inline-block; background-color: #000; width: 30.1%; height: 200px; margin-right: 4%; margin-bottom: 3.1rem; background-size: 100%; background-repeat: no-repeat;}
-.band-members ul li:hover {background-size: 102%;}
+.band-members ul li {transition: background-size 1s; display: inline-block; background-color: #000; width: 30.1%; height: 9.5em; margin-right: 4%; margin-bottom: 3.1rem; background-size: 102%; background-repeat: no-repeat; position: relative;}
+.band-members ul li:hover {background-size: 104%;}
 .band-members ul li.edge {margin-right: 0;}
 .karolina {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/karolina-220-220.jpg');}
 .marta {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/marta-220-220.jpg');}
@@ -45,6 +47,38 @@ button, input, select, textarea {background-color: #070707;}
 .band-members ul li a {width: 100%; height: 100%; display: block; position: relative;}
 .band-members ul li a div {background-color: rgba(0, 0, 0, 0.8); position: absolute; width: 100%; bottom: 0; padding: .76rem 1.5rem; color: #555; transition: color .5s, padding .5s, background-color .5s;}
 .band-members ul li a:hover div {background-color: rgba(0, 0, 0, 0.85); color: #666; padding: 1rem 1.7rem;}
+@media screen and (max-width: 993px) {
+    .band-members ul li {width: 30.05%; height: 9.3em;}
+}
+@media screen and (max-width: 954px) {
+    .band-members ul li {width: 30.1%;}
+}
+@media screen and (max-width: 690px) {
+    .band-members ul li {width: 30.02%; height: 9em;}
+}
+@media screen and (max-width: 650px) {
+    .band-members ul li {height: 8.8em;}
+}
+@media screen and (max-width: 650px) {
+    .band-members ul li {height: 8.8em;}
+}
+@media screen and (max-width: 619px) {
+    .band-members ul {margin-left: 0;}
+    .band-members ul li {height: 9.3em;}
+}
+@media screen and (max-width: 555px) {
+    .band-members ul li {height: 8.5em;}
+}
+@media screen and (max-width: 512px) {
+    .band-members ul li {width: 29.8%; height: 24vw;}
+}
+@media screen and (max-width: 414px) {
+    .band-members ul li a div {padding: 5px 8px 7px 8px;}
+    .band-members ul li a:hover div {padding: 7px 10px 7px 10px;}
+}
+@media screen and (max-width: 383px) {
+    .band-members ul li {width: 29.5%;}
+}
 
 /* contact form */
 
@@ -53,13 +87,15 @@ button, input, select, textarea {background-color: #070707;}
 #cntctfrm_submit_first_column {text-align: right !important;}
 .cntctfrm_input.cntctfrm_input_submit {width: auto;display: inline-block;}
 .cntctfrm_label, .cntctfrm_input, .cntctfrm_select, .cntctfrm_checkbox {max-width: none;}
+.cntctfrm_input_message textarea {resize: vertical;}
+.required {color: #e86004;}
 
 /* gallery trailers */
 
-.gall-tr-wrapper {clear: both; margin-bottom: 2.5rem;}
+.gall-tr-wrapper {clear: both; margin-bottom: .5em;}
 .gall-tr-wrapper .tile {height: 100%; width: 100%; display: block; position: absolute; border: 0; z-index: 1;}
-.gall-tr-wrapper .overflow-hidden {height: 200px;width: 100%; display: block; border-bottom: 0; margin-top: 0; margin-left: 0; cursor: pointer;}
-.gall-tr-wrapper .img-box .overflow-hidden img {height: 200px; max-width: none; width: auto; transform: scale(1); transition: transform 1s;}
+.gall-tr-wrapper .overflow-hidden {height: 10em; width: 100%; display: block; border-bottom: 0; margin-top: 0; margin-left: 0; cursor: pointer;}
+.gall-tr-wrapper .img-box .overflow-hidden img {height: 10em; max-width: none; width: auto; transform: scale(1); transition: transform 1s;}
 .gall-tr-wrapper .img-box:hover .overflow-hidden img {transform: scale(1.02);}
 .gall-tr-wrapper .img-box {display: inline-block; position: relative; width: 30.1%;}
 .gall-tr-wrapper .img-box p, .gall-tr-wrapper .img-box br {display: none;}
@@ -67,11 +103,20 @@ button, input, select, textarea {background-color: #070707;}
 .gall-tr-wrapper .img-box:hover .cover {background-color: rgba(0, 0, 0, 0.85); color: #666; padding: 1rem 0;}
 .gall-tr-wrapper .img-box .cover span {padding: 0 1.5rem; transition: padding .5s;}
 .gall-tr-wrapper .img-box:hover .cover span {padding: 0 2rem;}
-.gall-tr-wrapper .text-box {display: inline-block; vertical-align: top; padding: 0 2rem; width: 69.1%;}
+.gall-tr-wrapper .text-box {display: inline-block; vertical-align: top; padding: 0 2rem; width: 68.8%;}
+@media screen and (max-width: 575px) {
+    .gall-tr-wrapper .overflow-hidden, .gall-tr-wrapper .img-box .overflow-hidden img {height: 25vw;}
+}
+@media screen and (max-width: 426px) {
+    .gall-tr-wrapper .img-box, .gall-tr-wrapper .text-box {width: 100%;}
+    .gall-tr-wrapper .text-box {padding: 1em 0 0 0;}
+    .gall-tr-wrapper .img-box, .gall-tr-wrapper .img-box .overflow-hidden {height: 60vw;}
+    .gall-tr-wrapper .img-box .overflow-hidden img {height: auto;}
+}
 
 /* gallery */
 
-.gallery-columns-3 .gallery-item {max-width: 31%; height: 200px; padding: 0 3.5% 0 0; box-sizing: content-box; margin-bottom: 2.2rem;}
+.gallery-columns-3 .gallery-item {max-width: 31%; height: 10em; padding: 0 3.5% 0 0; box-sizing: content-box; margin-bottom: 2.2rem;}
 .gallery-columns-3 .gallery-item:nth-child(3n) {padding-right: 0;}
 .gallery-icon, .gallery-columns-3 .gallery-item a {height: 100%; display:  block;}
 .gallery-columns-3 .gallery-item a {overflow: hidden;  border: 0; position: relative;}
@@ -79,6 +124,15 @@ button, input, select, textarea {background-color: #070707;}
 .gallery-columns-3 .gallery-item a:hover::after {height: 55px;}
 .gallery-columns-3 .gallery-item a img {height: 100%; max-width: none; width: auto; transform: scale(1); transition: transform 1s;}
 .gallery-columns-3 .gallery-item a:hover img {transform: scale(1.02);}
+@media screen and (max-width: 555px) {
+    .gallery-columns-3 .gallery-item {max-width: 47.5%; height: 35vw;}
+    .gallery-columns-3 .gallery-item , .gallery-columns-3 .gallery-item:nth-child(3n) {padding-right: 5%;}
+    .gallery-columns-3 .gallery-item:nth-child(2n) {padding-right: 0;}
+}
+@media screen and (max-width: 426px) {
+    .gallery-columns-3 .gallery-item {max-width: 100%; height: 60vw;}
+    .gallery-columns-3 .gallery-item , .gallery-columns-3 .gallery-item:nth-child(3n) {padding-right: 0;}
+}
 
 /* error 404 */
 
@@ -90,7 +144,6 @@ button, input, select, textarea {background-color: #070707;}
 .site-header {padding-bottom: 4%; padding-top: 4%;}
 
 @media screen and (min-width: 77.5em) {
-    body::before {width: calc(50% - 405px);}
     .sidebar {width: 19.666%;}
     .site-content {margin-left: 25.666%;}
     .site-footer {margin-left: 32%;}
@@ -104,7 +157,7 @@ button, input, select, textarea {background-color: #070707;}
 }
 
 @media screen and (min-width: 59.6875em) {
-    body::before {width: calc(50% - 405px);}
+    body::before {width: 22%;}
     .site-header {padding-left: 9%; padding-right: 9%; margin-top: 12%;}
     .main-navigation {margin-left: 9%; margin-right: 9%;}
     .sidebar {width: 22%;}
@@ -115,11 +168,13 @@ button, input, select, textarea {background-color: #070707;}
     .site-content {margin-left: 25.666%;}
     .sidebar {max-width: 308px;}
     .hentry + .hentry {margin-top: 4%; padding-top: 6%;}
-    .site-footer {margin-left: 32%;}
+    .site-footer {margin-left: 31.6%;}
 }
 
 @media screen and (min-width: 38.75em) {
     .secondary {margin: 0}
+    .hentry + .hentry {margin-top: 4%}
+    .site-main {padding: 4% 0;}
 }
 
 @media screen and (max-width: 1360px) {
@@ -140,5 +195,11 @@ button, input, select, textarea {background-color: #070707;}
 
 /* post navigation */
 
-.post-navigation {margin-top: 4%;}
+.post-navigation {margin-top: 0; border-top: 1px solid #090909;}
 .post-navigation .nav-next, .post-navigation .nav-previous {background-color: #020202;}
+@media screen and (min-width: 620px) {
+    .post-navigation {margin-top: 4%; border-top: 0;}
+}
+
+
+

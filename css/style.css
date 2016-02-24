@@ -39,6 +39,7 @@ header.site-header {height: 2.63em;}
 
 .overflow-hidden {overflow: hidden;}
 .clip {width: 1px; height: 1px; overflow: hidden;}
+* {transition: color .3s;}
 
 /* site logo */
 

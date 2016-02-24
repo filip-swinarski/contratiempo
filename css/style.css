@@ -26,10 +26,24 @@ button, input, select, textarea {background-color: #070707;}
 .entry-content + .entry-footer {padding-top: 0;}
 .page-header + .hentry, .page-header + .page-content {margin-top: 4%;}
 .comments-area {display: none;}
+header.site-header {height: 2.63em;}
+
+@media screen and (max-width: 954px) {
+    header.site-header {height: auto;}
+}
+@media screen and (max-width: 480px) {
+    header.site-header {padding-bottom: 0;}
+}
 
 /* custom classes */
 
 .overflow-hidden {overflow: hidden;}
+.clip {width: 1px; height: 1px; overflow: hidden;}
+
+/* site logo */
+
+.site-logo {height: 2.63em; width: 100%; background-image: url(img/logo-light.png); background-size: contain; background-repeat: no-repeat;}
+.site-logo:hover {background-image: url(img/logo-dark.png);}
 
 /* members about site */
 

@@ -125,6 +125,7 @@ header.site-header {height: 2.63em;}
 .gall-tr-wrapper .img-box .cover span {padding: 0 1.5rem; transition: padding .5s;}
 .gall-tr-wrapper .img-box:hover .cover span {padding: 0 2rem;}
 .gall-tr-wrapper .text-box {display: inline-block; vertical-align: top; padding: 0 2rem; width: 68.8%;}
+.gall-tr-wrapper .text-box::after {display: block; content: ""; height: 1em;}
 @media screen and (max-width: 575px) {
     .gall-tr-wrapper .overflow-hidden, .gall-tr-wrapper .img-box .overflow-hidden img {height: 25vw;}
 }

@@ -48,7 +48,10 @@ var CONTRA = function() {
                 animateScroll(el, 0, 'darkened', 'out');
                 animateScroll(el, -10, 'lightened', 'in');
             });
-            animateScroll(logo, 20, 'coloured', 'out');
+            if (window.innerWidth > 524)
+                animateScroll(logo, 20, 'coloured', 'out');
+            else
+                animateScroll(logo, 10, 'coloured', 'out');
             banners.forEach(function(el) {
                 animateScroll(el, -parseInt(el.clientHeight) + 100, 'darkened', 'out');
             });

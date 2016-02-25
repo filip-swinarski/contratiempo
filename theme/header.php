@@ -7,7 +7,7 @@
  * @package WordPress
  * @subpackage Twenty_Fifteen Child
  * @since Twenty Fifteen 1.0
- * v. 1.1.2 19.01.2016 @filip-swinarski
+ * v. 1.1.3 25.02.2016 @filip-swinarski
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
@@ -30,8 +30,12 @@
 	<div id="sidebar" class="sidebar">
 		<header id="masthead" class="site-header" role="banner">
 			<div class="site-branding">
-                                <a href="<?php echo esc_url( home_url( '/' ) ); ?>"rel="home">
-                                    <div class="site-logo"></div>
+                                <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
+                                    <div class="site-logo">
+                                        <div class="darkgray-logo"></div>
+                                        <div class="lightgray-logo"></div>
+                                        <div class="rosewood-logo"></div>
+                                    </div>
                                 </a>
 				<?php
 					if ( is_front_page() && is_home() ) : ?>

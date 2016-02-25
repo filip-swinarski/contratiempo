@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.12
+ Version:      1.0.13
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -21,12 +21,13 @@ p {font-size: 80%; line-height: 200%; color: #777;}
 .hentry {padding-top: 6%;}
 button, input, select, textarea {background-color: #070707;}
 .secondary {background-color: #020202;}
-.entry-content {padding-bottom: 0;}
-.entry-content {padding-bottom: 6%;}
+.entry-content {padding-bottom: 6%; opacity: 1; transition: opacity 1s;}
 .entry-content + .entry-footer {padding-top: 0;}
+.entry-content a {border: 0 none transparent;}
 .page-header + .hentry, .page-header + .page-content {margin-top: 4%;}
 .comments-area {display: none;}
 header.site-header {height: 2.63em;}
+.post-thumbnail {opacity: 1; transition: opacity 1s;}
 
 @media screen and (max-width: 954px) {
     header.site-header {height: auto;}
@@ -43,12 +44,14 @@ header.site-header {height: 2.63em;}
 
 /* site logo */
 
-.site-logo {height: 2.63em; width: 100%; background-image: url(img/logo-light.png); background-size: contain; background-repeat: no-repeat;}
-.site-logo:hover {background-image: url(img/logo-dark.png);}
+.site-logo {height: 2.63em; width: 100%; background-image: url(img/logo-dark.png); background-size: contain; background-repeat: no-repeat; opacity: 1; transition: opacity .5s;}
+.site-logo::after {content: ""; display: block; height: 2.63em; width: 100%; background-image: url(img/logo-light.png); background-size: contain; background-repeat: no-repeat; opacity: 1; transition: opacity .5s;}
+.site-logo:hover::after {opacity: 0;}
+.site-logo::before {content: ""; display: block; position: absolute; width: 100%; height: 100%; z-index: 1; background-color: transparent; mix-blend-mode: darken; transition: background-color 1s;}
 
 /* members about site */
 
-.band-members {padding: 0 10% .2% 10%;}
+.band-members {padding: 0 10% .2% 10%; opacity: 1; transition: opacity 1s;}
 .band-members ul {list-style: none;}
 .band-members ul li {transition: background-size 1s; display: inline-block; background-color: #000; width: 30.1%; height: 9.5em; margin-right: 4%; margin-bottom: 3.1rem; background-size: 102%; background-repeat: no-repeat; position: relative;}
 .band-members ul li:hover {background-size: 104%;}
@@ -103,7 +106,8 @@ header.site-header {height: 2.63em;}
 .cntctfrm_input.cntctfrm_input_submit {width: auto;display: inline-block;}
 .cntctfrm_label, .cntctfrm_input, .cntctfrm_select, .cntctfrm_checkbox {max-width: none;}
 .cntctfrm_input_message textarea {resize: vertical;}
-.required {color: #e86004;}
+.cntctfrm_error_text {color: #660020; font-size: .8em; padding-bottom: .5em;}
+.required {color: #660020;}
 
 /* gallery trailers */
 
@@ -162,6 +166,10 @@ header.site-header {height: 2.63em;}
 /* layout */
 
 .site-header {padding-bottom: 4%; padding-top: 4%;}
+.widget_recent_entries ul li, .widget_archive ul li {position: relative;}
+.widget_recent_entries ul li::after, .widget_archive ul li::after {content: ""; display: block; position: absolute; bottom: -1px; height: 1px; width: 100%; display: block; transition: background-color 1s; background-color: transparent;}
+.widget_recent_entries ul li:last-child::after, .widget_archive ul li:last-child::after {display: none;}
+.widget_recent_entries ul li:hover::after, .widget_archive ul li:hover::after {background-color: #220002; transition: background-color 1s;}
 
 @media screen and (min-width: 77.5em) {
     .sidebar {width: 19.666%;}
@@ -207,7 +215,8 @@ header.site-header {height: 2.63em;}
 
 /* site footer */
 
-.site-footer .site-info {text-align: right;}
+.site-footer .site-info {text-align: right; opacity: 1; transition: opacity 1s;}
+.site-footer .site-info.darkened {opacity: 0; transition:opacity 1s;}
 
 /* search results */
 
@@ -216,10 +225,25 @@ header.site-header {height: 2.63em;}
 /* post navigation */
 
 .post-navigation {margin-top: 0; border-top: 1px solid #090909;}
-.post-navigation .nav-next, .post-navigation .nav-previous {background-color: #020202;}
+.post-navigation .nav-links {background-color: #020202;}
+.post-navigation .nav-next, .post-navigation .nav-previous {background-color: #020202; opacity: 1; transition: opacity 1s;}
+.post-navigation .nav-next.darkened, .post-navigation .nav-previous.darkened {opacity: 0; transition: opacity 1s;}
+.post-navigation a * {opacity: 1; transition: opacity 1s;}
+.post-navigation .meta-nav.darkened, .post-navigation .post-title.darkened {opacity: 0;transition: opacity 1s;}
 @media screen and (min-width: 620px) {
     .post-navigation {margin-top: 4%; border-top: 0;}
 }
 
+/* main navigation */
 
+.main-navigation li::after {content: ""; display: block; position: absolute; height: 1px; width: 100%; transition: background-color 1s; background-color: transparent;}
+.main-navigation li:hover::after {background-color: #220002;}
+
+/* animations */
+
+.active {color: #660017; transition: color .5s;}
+.active:hover {color: #990020; transition: color .5s;}
+.darkened {opacity: 0; transition: opacity .5s;}
+.lightened {opacity: 1; transition: opacity .5s, color .5s;}
+.coloured::before {background-color: #680012; transition: background-color 1s;}
 

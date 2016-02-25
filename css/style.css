@@ -47,7 +47,7 @@ header.site-header {height: 2.63em;}
 .site-logo {height: 2.63em; width: 100%; background-image: url(img/logo-dark.png); background-size: contain; background-repeat: no-repeat; opacity: 1; transition: opacity .5s;}
 .site-logo::after {content: ""; display: block; height: 2.63em; width: 100%; background-image: url(img/logo-light.png); background-size: contain; background-repeat: no-repeat; opacity: 1; transition: opacity .5s;}
 .site-logo:hover::after {opacity: 0;}
-.site-logo::before {content: ""; display: block; position: absolute; width: 100%; height: 100%; z-index: 1; background-color: transparent; mix-blend-mode: darken; transition: background-color 1s;}
+.site-logo::before {content: ""; display: block; position: absolute; width: 100%; height: 2.5em; z-index: 1; background-color: transparent; mix-blend-mode: darken; transition: background-color 1s;}
 
 /* members about site */
 
@@ -245,5 +245,5 @@ header.site-header {height: 2.63em;}
 .active:hover {color: #990020; transition: color .5s;}
 .darkened {opacity: 0; transition: opacity .5s;}
 .lightened {opacity: 1; transition: opacity .5s, color .5s;}
-.coloured::before {background-color: #680012; transition: background-color 1s;}
+.coloured::before {background-color: #680012; transition: background-color 1s; filter: blur(2px);}
 

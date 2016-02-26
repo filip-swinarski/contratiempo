@@ -1,6 +1,6 @@
 /* Custom js application for Contratiempo
  * namespace: CONTRA,
- * v. 0.1.4 26.02.2016 @filip-swinarski
+ * v. 0.1.5 26.02.2016 @filip-swinarski
  */
 
 var CONTRA = function() {
@@ -41,10 +41,7 @@ var CONTRA = function() {
     function addListeners() {
         window.addEventListener('scroll', function(e) {
             headings.forEach(function(el) {
-                if (el.parentNode.parentNode.querySelector('.post-thumbnail'))
-                        animateScroll(el, 150, 'active', 'in');
-                else
-                    animateScroll(el, 50, 'active', 'in');
+                animateScroll(el, 50, 'active', 'in');
                 animateScroll(el, 0, 'darkened', 'out');
                 animateScroll(el, -10, 'lightened', 'in');
             });

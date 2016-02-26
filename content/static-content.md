@@ -3,12 +3,12 @@ CONTRATIEMPO STATIC SITES CONTENT
 
 * includes bios and band info
 * Filip Swinarski filip.swinarski@gmail.com 19.02.2016 v 0.1
-* version: v 0.2 20.02.2016
+* version: v 0.3 26.02.2016
 
 * TO DO:
 
-* English translation
 * Spanish translation
+
 
 O NAS 
 -----
@@ -97,6 +97,7 @@ CONTRATIEMPO band.
 
 __ES__ 
 
+
 FILIP
 -----
 
@@ -115,12 +116,24 @@ zobaczył występ Paco de Lucii w TV. Pierwsze spotkanie z “na żywo” nastą
 jednak w roku 2002, kiedy zaczął akompaniować na lekcjach tańca w łódzkim Studio
 Flamenco. Akompaniował i dzielił scenę m. in z takimi wykonawcami, jak Vicky
 Barea, Juan Polvillo, Oscar Guzman, Noelia Sabarea. W roku 2003 zainicjował
-powstanie zespołu Contratiempo, który miał okazję współpracować m. in. z
-Filharmonią Narodową.
+powstanie zespołu Contratiempo.
 
 __EN__ 
 
+A flamenco guitarist. Accompanist. Cajonist and plamero.
+
+Filip mainly deals with flamenco dance accompaniament. He plays also
+instrumental piecea, also his own compositions.
+
+He is interested in flamenco music since 90s, when he accidentally saw Paco de
+Lucia's performance in TV. However, is first "live" meeting with flamenco took
+place in 2002, when he started to accompany dance clases in Studio Flamenco,
+Lodz.He accompanied and shared stage with performers like Vicky Barea, Juan
+Polvillo, |Oscar Guzman, Noelia Sabarea among others. In year 2003 he
+initializeda rise of Contratiempo band.
+
 __ES__ 
+
 
 KAROLINA
 --------
@@ -142,7 +155,19 @@ Tańczyła w spektaklu muzyczno-tanecznym organizowanym przez zespół Los Payos
 
 __EN__ 
 
+Dancer, choreographer and flamenco dance teacher. She improves her skills for
+many years during visits in Spain, where she trained with masters, such as
+Pilar Ortega, Isabel Bayon, Yasaray Rodriguez, Angel Atienza, Andres Pena and
+others. In Poland she is a student of Marta Dębska. Since 2004 she is a teacher
+in Flamenco Dance School Triana in Warsaw. She teaches dance and playing
+castanets. She danced in music adn dance spectacle, organised by Los Payos
+band, „FLAMENCO viene de Triana” and also during many more cultural events
+(Refugees Day in Agrykola, Gypsy Festival in Żyrardów, 855-anniversary concert
+choir of the University of Warsaw among others).
+
+
 __ES__ 
+
 
 DOMINIKA
 --------
@@ -165,6 +190,18 @@ koncertavch. W 2009 r rozpoczęła współpracę z Filharmonią Narodową.
 
 __EN__ 
 
+Dancer, choreographer, and flamenco dance teacher. She is conncted since 2002
+with the oldest flamenco center in Poland - Studio Flamenco in Warsaw, she
+cooperated also with Studio Flamenco in Lodz and Teatr Tańca Nie Tylko Flamenco (Not
+Only Flamenco Dance Theatre) in Warsaw. Now she teaches dance technique, playing
+castanets and choreography in Studio Flamenco in Warsaw. Her adventure with
+flamenco started under supervision of Marta Dębska, who is her teacher for many
+years now. Dominika Kupniewska studies for many years also in Seville, under
+Alcia Marquez, manuel Betenzos, Pilar Ortega and Isabel Bayon. Since 2004 she
+contributes the Contratiempo band, with which she took part in many cultural
+events and concerts. She started to cooperate with National Philharmonic in
+2009.
+
 __ES__ 
 
 
@@ -176,23 +213,38 @@ __PL__
 
 ###Marta Guisado:
 
-Absolwentka Akademii Muzycznej w Łodzi ( klasa gitary klasycznej ). Flamenco
+Absolwentka Akademii Muzycznej w Łodzi (klasa gitary klasycznej). Flamenco
 zajmuje się od 2002 roku. Pierwsze doświadczenia zdobywała w zespole „Los nińos
 flamencos” załozonym przez Jakuba Niedoborka i złożonym z jego uczniów.
 Następnie współpracowała z wieloma zespołami wykonującymi muzykę
-latynoamerykańską ( Curacas, Aires de losAndes ) i flamenco ( Latcho Drom,
-Nieformalna Compania Flamenca) oraz akompaniowała w „Studio Flamenco” Anny
+latynoamerykańską (Curacas, Aires de los Andes) i flamenco (Latcho Drom,
+Nieformalna Compania Flamenca) oraz akompaniowała w Studio Flamenco Anny
 Redlin w Łodzi. Obecnie akompaniuje w najstarszej polskiej szkole tańca flamenco
-„Studio Flamenco” w Warszawie, a także w „Studio Tańców Orientalnych i
-Flamenco”Małgorzaty Matuszewskiej. Współpracuje z Teatrem Tańca „Nie Tylko
-Flamenco” – jest współtwórcą oprawy muzycznej spektaklu „Carmen Concierto”.
+Studio Flamenco w Warszawie, a także w Studio Tańców Orientalnych i
+Flamenco Małgorzaty Matuszewskiej. Współpracuje z Teatrem Tańca Nie Tylko
+Flamenco – jest współtwórcą oprawy muzycznej spektaklu Carmen Concierto.
 Miała okazję akompaniować wielu hiszpańskim śpiewakom i tancerzom, zarówno w
 Polsce jak i podczas częstych wizyt w Sevilli, gdzie doskonali swoje
 umiejętności.
 
 __EN__ 
 
+Graduate of Music Academy in Lodz (classical guitar class). She deals with
+flamenco since 2002. She gained her first experience in "Los nińos flamencos",
+founded by Jakub Niedoborek, that consisted of his students. Next she
+cooperated with many latin music bands (Curacas, Aires de los Andes) and
+flamenco bands (Latcho Drom, Unformal Flamenco Company) and accompanied in Anna
+Redlin's "Studio Flamenco" in Lodz. Now she accompanies in the oldest Polish
+flamenco dance school - "Studio Flamenco" in Warsaw, and also in Małgorzata
+Matuszeska's „Studio Tańców Orientalnych i Flamenco” ("Oriental and Flamenco
+Dance Studio"). She cooperates with "Teatr Tańca Nie Tylko Flamenco" ("Not
+Only Flamenco  Dance Theatre") - she is a co-creator of Carmen Concierto
+spectacle. marta had an opportunity top accompany many Spanish singers and
+dancers, both in Poland and during fraquent visits to Seville, where she raises
+her skills.
+
 __ES__ 
+
 
 FERNANDO
 --------
@@ -205,13 +257,23 @@ __PL__
 Urodzony w kolebce flamenco – cygańskiej dzielnicy Sewilli, Trianie, od
 dzieciństwa uczył się śpiewu flamenco – najpierw od swojej matki Dolores, a
 następnie od artystów flamenco, spędzając czas w tawernach i tablaos
-flamencos.Wwieku 20 lat wyjechał do Nowego Jorku – najważniejszego ośrodka
-flamenco w USA, i współpracował‚ z przedstawicielami tamtejszego środowiska
+flamencos.W wieku 20 lat wyjechał do Nowego Jorku – najważniejszego ośrodka
+flamenco w USA, i współpracował z przedstawicielami tamtejszego środowiska
 realizując trasy koncertowe po teatrach i uniwersytetach Stanów Zjednoczonych i
 Kanady. Jest wielbicielem nurtu cante jondo – pieśni gębokiej, a jego wzorami są
 Camaron de la Isla i Manolo Caracol. Śpiew Fernando to autentyczny andaluzyjski
 temperament i emocje.
 
 __EN__ 
+
+Born in flamenco cradle - gypsy district of Seville, Triana, he has been
+learning flamenco singing since early childhood - firs from his mother Dolores,
+and next from flamenco artists, spending his time in flamenco taverns and
+tablaos. At the age of 20 he moved to New York - the most important flaenco
+city in USA, and cooperated with representatives of local enviroment, taking
+part in concert tours in theatres and universities of United States anc Canada.
+He is a fan of cante jondo -  deep song, and his role models are Camaron de la
+Isla and Manolo Caracol. Fernando's singing is an authentic andalusian
+temperament and emotions.
 
 __ES__ 

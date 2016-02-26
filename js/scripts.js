@@ -1,6 +1,6 @@
 /* Custom js application for Contratiempo
  * namespace: CONTRA,
- * v. 0.1.3 25.02.2016 @filip-swinarski
+ * v. 0.1.4 26.02.2016 @filip-swinarski
  */
 
 var CONTRA = function() {
@@ -112,13 +112,21 @@ var CONTRA = function() {
         if (bandMembers) setProperties(bandMembers, -parseInt(bandMembers.clientHeight) + 100, 'darkened');
         setProperties(siteFooter, -1, 'darkened');
     }
+
+    function moveFlags() {
+        var langPanel = document.querySelector('#tab_background_color_picker'),
+            nav = document.querySelector('#site-navigation');
+
+        nav.parentNode.insertBefore(langPanel, nav.nextSibling);
+    }
     
     // init
     function init() {
         
         addListeners();
         initElements();
-        test();
+        moveFlags();
+        //test();
         
     }
 

@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.13
+ Version:      1.0.14 26.02.2016
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -195,7 +195,7 @@ header.site-header {height: 2.63em;}
     .site-header {padding-left: 9%; padding-right: 9%; margin-top: 12%;}
     .main-navigation {margin-left: 9%; margin-right: 9%;}
     .sidebar {width: 22%;}
-    .main-navigation {margin-left: 9%; margin-right: 9%;}
+    .main-navigation {margin-left: 9%; margin-right: 9%; margin-bottom: 0;}
     .social-navigation {margin-left: 9%; margin-right: 9%;}
     .widget {padding-right: 9%; padding-left: 9%;}
     .site-main {padding-top: 4%; padding-bottom: 4%;}
@@ -209,6 +209,7 @@ header.site-header {height: 2.63em;}
     .secondary {margin: 0}
     .hentry + .hentry {margin-top: 4%}
     .site-main {padding: 4% 0;}
+    .main-navigation {margin-bottom: 0;}
 }
 
 @media screen and (max-width: 1360px) {
@@ -253,3 +254,11 @@ header.site-header {height: 2.63em;}
 .lightened {opacity: 1; transition: opacity .5s, color .5s;}
 .coloured::before {opacity: 1; transition: opacity 1s;}
 
+/* language flags */
+
+#secondary #tab_background_color_picker {position: relative; left: auto; bottom: auto; right: auto; top: auto; z-index: 0; width: auto; height: auto; background-color: transparent; border-radius: 0; padding: 2em 0; margin-left: 9%; margin-right: 9%; text-align: left;}
+#secondary #tab_background_color_picker img {filter: saturate(0); transition: filter .5s;}
+#secondary #tab_background_color_picker img:hover {filter: saturate(100%); transition: filter .5s;}
+@media screen and (max-width: 954px) {
+    #secondary #tab_background_color_picker {margin-left: 0; margin-right: 0;}
+}

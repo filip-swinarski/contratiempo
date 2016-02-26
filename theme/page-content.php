@@ -5,7 +5,7 @@
  * @package WordPress
  * @subpackage Twenty_Fifteen Contratiempo Child
  * @since Twenty Fifteen Contratiempo Child 0.1.0
- * 16.01.2016 v. 0.1.0 @filip-swinarski
+ * 26.01.2016 v. 0.1.2 @filip-swinarski
  */
 ?>
 
@@ -36,6 +36,8 @@
             $server=$_SERVER['REQUEST_URI'];
             if ($server == '/about/') {
                 include 'elements/band-members.html';
+            } elseif ($server == '/en_GB/about-us/') {
+                include 'elements/band-members-en.html';
             }
         ?>
 	<?php edit_post_link( __( 'Edit', 'twentyfifteen' ), '<footer class="entry-footer"><span class="edit-link">', '</span></footer><!-- .entry-footer -->' ); ?>

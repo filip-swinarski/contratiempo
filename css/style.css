@@ -51,7 +51,7 @@ header.site-header {height: 2.63em;}
 .site-logo .rosewood-logo {opacity: 0; transition: opacity 1s; background-image: url(img/logo-rosewood.png); background-repeat: no-repeat; background-size: contain;}
 .site-logo:hover .lightgray-logo {opacity: 1; transition: opacity .5s;}
 .site-logo.coloured .rosewood-logo {opacity: 1; transition: opacity 1s;}
-.site-logo.coloured .lightgray-logo,  .site-logo.coloured .darkgray-logo {opacity: 0; transition: opacity: .8s;}
+.site-logo.coloured .lightgray-logo,  .site-logo.coloured .darkgray-logo {opacity: 0; transition: opacity .8s;}
 
 /* members about site */
 

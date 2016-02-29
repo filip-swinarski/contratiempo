@@ -42,7 +42,7 @@ __EN__
 
 ###About us:
 
-The CONTRATIEMPO band was formes in 2003 as guitar duo - Filip Swinarski and
+The CONTRATIEMPO band was formed in 2003 as guitar duo - Filip Swinarski and
 Jarosław Czajczyński. Marta Guisado joined us in 2004. The band performs with
 flamenco dancers, Dominika Kupniewska and Karolina Łucznik, and flamenco
 singer, Fernando Guisado - Ruiz.
@@ -85,14 +85,14 @@ flamenco. Współzałożyciel zespołu CONTRATIEMPO.
 
 __EN__ 
 
-He plays guitar since 1990, and become interested in flamenco in year 2000.
+He has been playing guitar since 1990, and became interested in flamenco in year 2000.
 Before flamenco, he dealt with music poetry and religious music, composing to
 lyrics. He accompanied number of performers and played his own compositions on
 nationwide reviews of music poetry and religious music. He performed in Piwnica
 Artystyczna "Przechowalnia", owned by Elżbieta Adamiak. He took part in
 Flamenco Festiwal in Lublin and subsequent editions of Flamenco Festiwal in
 Lodz. In 2007 he had opportunity to perform in Teatr Nowy in Lodz with Vicky
-Barea and Mateo el Gallito. He sings flamenco for few years. Co-founder of
+Barea and Mateo el Gallito. He has been singing flamenco for few years. Co-founder of
 CONTRATIEMPO band.
 
 __ES__ 
@@ -123,14 +123,14 @@ __EN__
 A flamenco guitarist. Accompanist. Cajonist and plamero.
 
 Filip mainly deals with flamenco dance accompaniament. He plays also
-instrumental piecea, also his own compositions.
+instrumental pieces, also his own compositions.
 
-He is interested in flamenco music since 90s, when he accidentally saw Paco de
-Lucia's performance in TV. However, is first "live" meeting with flamenco took
+His interest in flamenco music started in 90s, when he accidentally saw Paco de
+Lucia's performance in TV. However, his first "live" meeting with flamenco took
 place in 2002, when he started to accompany dance clases in Studio Flamenco,
-Lodz.He accompanied and shared stage with performers like Vicky Barea, Juan
-Polvillo, |Oscar Guzman, Noelia Sabarea among others. In year 2003 he
-initializeda rise of Contratiempo band.
+Lodz. He accompanied and shared stage with performers like Vicky Barea, Juan
+Polvillo, Oscar Guzman, Noelia Sabarea among others. In year 2003 he
+initialized a rise of Contratiempo band.
 
 __ES__ 
 
@@ -146,24 +146,24 @@ __PL__
 Tancerka, choreograf i instruktorka tańca flamenco. Od wielu lat podnosi swoje
 kwalifikacje podczas wyjazdów do Hiszpanii, gdzie szkoliła się u takich mistrzów
 jak: Pilar Ortega, Isabel Bayon, Yasaray Rodriguez, Angel Atienza, Andres Pena i
-in. W Polsce jest uczennicą Marty Dębskiej. Od 2004 roku uczy w Szkole Tańca
-Flamenco Triana w Warszawie. Prowadzi zajęcia z tańca oraz gry na kastanietach.
-Tańczyła w spektaklu muzyczno-tanecznym organizowanym przez zespół Los Payos
-„FLAMENCO viene de Triana” a także podczas wielu innych imprez kulturalnych
-(m.in. Dzień Uchodźcy na Agrykoli, Festiwal Cygański w Żyrardowie, Koncert
-85-lecia Chóru Uniwersytetu Warszawskiego).
+in. Od 2004 roku uczy w Szkole Tańca Flamenco Triana w Warszawie. Prowadzi
+zajęcia z tańca oraz gry na kastanietach.  Tańczyła w spektaklu
+muzyczno-tanecznym organizowanym przez zespół Los Payos „FLAMENCO viene de
+Triana” a także podczas wielu innych imprez kulturalnych (m.in. Dzień Uchodźcy
+na Agrykoli, Festiwal Cygański w Żyrardowie, Koncert 85-lecia Chóru
+Uniwersytetu Warszawskiego).
 
 __EN__ 
 
-Dancer, choreographer and flamenco dance teacher. She improves her skills for
-many years during visits in Spain, where she trained with masters, such as
+Dancer, choreographer and flamenco dance teacher. She improves her skills 
+during visits in Spain, where she trains with masters, such as
 Pilar Ortega, Isabel Bayon, Yasaray Rodriguez, Angel Atienza, Andres Pena and
-others. In Poland she is a student of Marta Dębska. Since 2004 she is a teacher
-in Flamenco Dance School Triana in Warsaw. She teaches dance and playing
-castanets. She danced in music adn dance spectacle, organised by Los Payos
-band, „FLAMENCO viene de Triana” and also during many more cultural events
-(Refugees Day in Agrykola, Gypsy Festival in Żyrardów, 855-anniversary concert
-choir of the University of Warsaw among others).
+others. Since 2004 she is a teacher in Flamenco Dance School Triana in Warsaw.
+She teaches dance and playing castanets. She danced in music and dance
+spectacle, organised by Los Payos band, „FLAMENCO viene de Triana” and also
+during many more cultural events (Refugees Day in Agrykola, Gypsy Festival in
+Żyrardów, 855-anniversary concert choir of the University of Warsaw among
+others).
 
 
 __ES__ 
@@ -181,12 +181,11 @@ Tancerka, choreograf i instruktorka tańca flamenco. Od 2002 r związana z
 nastarszym centrum flamenco w Polsce – Studio Flamenco w Warszawie,
 współpracowała również ze Studio Flamenco w Łodzi oraz Teatrem Nie Tylko
 Flamenco w Warszawie. Obecnie prowadzi zajęcia z techniki, gry na kastanietach,
-oraz zajęcia choreograficzne w Studio Flamenco w Warszawie. Swoją przygodę z
-flamenco rozpoczęła pod okiem Marty Dębskiej, która jest również jej wieloletnią
-nauczycielką. Dominika Kupniewska od lat kształci się także w Sevilli u Alicii
-Marquez, Manuela Betanzosa, Pilar Ortegi i Isabel Bayon. Od 2004 współtworzy
-zespół Contratiempo, z którym uczestniczyła w wielu imprezach kulturalnych i
-koncertavch. W 2009 r rozpoczęła współpracę z Filharmonią Narodową.
+oraz zajęcia choreograficzne w Studio Flamenco w Warszawie. Dominika Kupniewska
+od lat kształci się także w Sevilli u Alicii Marquez, Manuela Betanzosa, Pilar
+Ortegi i Isabel Bayon. Od 2004 współtworzy zespół Contratiempo, z którym
+uczestniczyła w wielu imprezach kulturalnych i koncertavch. W 2009 r rozpoczęła
+współpracę z Filharmonią Narodową.
 
 __EN__ 
 
@@ -194,13 +193,11 @@ Dancer, choreographer, and flamenco dance teacher. She is conncted since 2002
 with the oldest flamenco center in Poland - Studio Flamenco in Warsaw, she
 cooperated also with Studio Flamenco in Lodz and Teatr Tańca Nie Tylko Flamenco (Not
 Only Flamenco Dance Theatre) in Warsaw. Now she teaches dance technique, playing
-castanets and choreography in Studio Flamenco in Warsaw. Her adventure with
-flamenco started under supervision of Marta Dębska, who is her teacher for many
-years now. Dominika Kupniewska studies for many years also in Seville, under
-Alcia Marquez, manuel Betenzos, Pilar Ortega and Isabel Bayon. Since 2004 she
-contributes the Contratiempo band, with which she took part in many cultural
-events and concerts. She started to cooperate with National Philharmonic in
-2009.
+castanets and choreography in Studio Flamenco in Warsaw. Dominika Kupniewska
+has been studying for many years also in Seville, under Alcia Marquez, Manuel
+Betenzos, Pilar Ortega and Isabel Bayon. Since 2004 she contributes the
+Contratiempo band, with which she took part in many cultural events and
+concerts. She started to cooperate with National Philharmonic in 2009.
 
 __ES__ 
 
@@ -229,7 +226,7 @@ umiejętności.
 
 __EN__ 
 
-Graduate of Music Academy in Lodz (classical guitar class). She deals with
+Graduate of Music Academy in Lodz (classical guitar class). She has been dealing with
 flamenco since 2002. She gained her first experience in "Los nińos flamencos",
 founded by Jakub Niedoborek, that consisted of his students. Next she
 cooperated with many latin music bands (Curacas, Aires de los Andes) and
@@ -239,7 +236,7 @@ flamenco dance school - "Studio Flamenco" in Warsaw, and also in Małgorzata
 Matuszeska's „Studio Tańców Orientalnych i Flamenco” ("Oriental and Flamenco
 Dance Studio"). She cooperates with "Teatr Tańca Nie Tylko Flamenco" ("Not
 Only Flamenco  Dance Theatre") - she is a co-creator of Carmen Concierto
-spectacle. marta had an opportunity top accompany many Spanish singers and
+spectacle. Marta had an opportunity top accompany many Spanish singers and
 dancers, both in Poland and during fraquent visits to Seville, where she raises
 her skills.
 
@@ -267,12 +264,12 @@ temperament i emocje.
 __EN__ 
 
 Born in flamenco cradle - gypsy district of Seville, Triana, he has been
-learning flamenco singing since early childhood - firs from his mother Dolores,
+learning flamenco singing since early childhood - first from his mother Dolores,
 and next from flamenco artists, spending his time in flamenco taverns and
-tablaos. At the age of 20 he moved to New York - the most important flaenco
+tablaos. At the age of 20 he moved to New York - the most important flamenco
 city in USA, and cooperated with representatives of local enviroment, taking
 part in concert tours in theatres and universities of United States anc Canada.
-He is a fan of cante jondo -  deep song, and his role models are Camaron de la
+He is a fan of cante jondo - deep song, and his role models are Camaron de la
 Isla and Manolo Caracol. Fernando's singing is an authentic andalusian
 temperament and emotions.
 

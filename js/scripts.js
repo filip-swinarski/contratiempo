@@ -91,11 +91,12 @@ var CONTRA = function() {
                 dist = 50;
             setProperties(el, dist, 'active');
         });
+        /*
         banners.forEach(function(el) {
-            setProperties(el, -parseInt(el.clientHeight) + 100, 'darkened');
+            setProperties(el, -parseInt(el.clientHeight) + 10, 'darkened');
         });
         containers.forEach(function(el) {
-            setProperties(el, -parseInt(el.clientHeight) + 100, 'darkened');
+            setProperties(el, -parseInt(el.clientHeight) + 10, 'darkened');
         });
         footers.forEach(function(el) {
             setProperties(el, 20, 'darkened');
@@ -106,6 +107,7 @@ var CONTRA = function() {
         postNavBtns.forEach(function(el) {
             setProperties(el, -80, 'darkened');
         });
+        */
         if (bandMembers) setProperties(bandMembers, -parseInt(bandMembers.clientHeight) + 100, 'darkened');
         setProperties(siteFooter, -1, 'darkened');
     }

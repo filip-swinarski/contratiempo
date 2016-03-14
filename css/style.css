@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.besaba.com
  Template:     twentyfifteen
- Version:      1.0.14 26.02.2016
+ Version:      1.0.15 26.02.2016
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -51,7 +51,7 @@ header.site-header {height: 2.63em;}
 .site-logo .rosewood-logo {opacity: 0; transition: opacity 1s; background-image: url(img/logo-rosewood.png); background-repeat: no-repeat; background-size: contain;}
 .site-logo:hover .lightgray-logo {opacity: 1; transition: opacity .5s;}
 .site-logo.coloured .rosewood-logo {opacity: 1; transition: opacity 1s;}
-.site-logo.coloured .lightgray-logo,  .site-logo.coloured .darkgray-logo {opacity: 0; transition: opacity .8s;}
+.site-logo.coloured .lightgray-logo,  .site-logo.coloured .darkgray-logo {opacity: 0; transition: opacity: .8s;}
 
 /* members about site */
 
@@ -262,3 +262,7 @@ header.site-header {height: 2.63em;}
 @media screen and (max-width: 954px) {
     #secondary #tab_background_color_picker {margin-left: 0; margin-right: 0;}
 }
+
+/* posts*/
+
+.post-thumbnail img {width: 100% !important; height: auto !important;}

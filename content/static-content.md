@@ -64,6 +64,29 @@ concerts across Poland.
 
 __ES__ 
 
+Acerca de nosotros
+
+La historia del grupo flamenco 'Contratiempo' empieza en el año 2003 cuando se
+encontraron dos guitarristas Felipe Swinarski y Jaroslav Czajczynski. En 2004
+se convierte en un trio con la llegada de Marta Guisado. En la actualidad con
+el grupo actúan tambien las bailaoras K.L y D.K y un cantaor flamenco de
+Sevilla F.G.R.
+
+Tocamos, cantamos y bailamos la musica flamenca, temas populares de los màs
+grandes del género y nuestras propias composiciones. Nuestro repertorio abarca
+palos festeros tradicionales, elaboradas coreografías escénicas, asi como
+piezas instrumentales, enriquecidas por influencias  de otros géneros
+musicales, como la musica latinoamericana, oriental o el jazz.
+
+Hemos actuado en casas de la cultura y clubs de Lodz, Varsovia, Torun,
+Sosnowiec, Tarnow, y hemos participado en muchos festivales y eventos
+culturales. Hemos tenido un honor de actuar con artistas flamencos de Polonia y
+del extranjero, entre otros Oscar Guzman (España), Carmen Segura (Esp), Vicky
+Barea (esp) , Mateo el Gallito (Eslovaquia).
+
+Desde 2009 colaboramos con la Filharmónica Nacional de Varsovia, Filharmónica
+Swietokrzyska y Filharmónica de Lodz, en un proyecto de audiciones educativas
+en toda Polonia.
 
 JAREK
 ------

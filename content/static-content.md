@@ -69,8 +69,8 @@ Acerca de nosotros
 La historia del grupo flamenco 'Contratiempo' empieza en el año 2003 cuando se
 encontraron dos guitarristas Felipe Swinarski y Jaroslav Czajczynski. En 2004
 se convierte en un trio con la llegada de Marta Guisado. En la actualidad con
-el grupo actúan tambien las bailaoras K.L y D.K y un cantaor flamenco de
-Sevilla F.G.R.
+el grupo actúan tambien las bailaoras Karolina Lucznik y Dominika Kupniewska y
+un cantaor flamenco de Sevilla Fernando Guisado Ruiz.
 
 Tocamos, cantamos y bailamos la musica flamenca, temas populares de los màs
 grandes del género y nuestras propias composiciones. Nuestro repertorio abarca

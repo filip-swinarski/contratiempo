@@ -20,7 +20,7 @@
 	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/html5.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
-        <script src="http://contratiempo.besaba.com/wp-content/themes/twentyfifteen-child/scripts.js"></script>
+        <script src="http://contratiempo.pl/wp-content/themes/twentyfifteen-child/scripts.js"></script>
 </head>
 
 <body <?php body_class(); ?>>

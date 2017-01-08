@@ -3,7 +3,7 @@
  Theme URI:    http://example.com/twentyfifteen-child/
  Description:  Twenty Fifteen Child Theme
  Author:       Filip Swinarski
- Author URI:   http://filipswinarski.besaba.com
+ Author URI:   http://filipswinarski.pl
  Template:     twentyfifteen
  Version:      1.0.15 26.02.2016
  License:      GNU General Public License v2 or later
@@ -60,12 +60,12 @@ header.site-header {height: 2.63em;}
 .band-members ul li {transition: background-size 1s; display: inline-block; background-color: #000; width: 30.1%; height: 9.5em; margin-right: 4%; margin-bottom: 3.1rem; background-size: 102%; background-repeat: no-repeat; position: relative;}
 .band-members ul li:hover {background-size: 104%;}
 .band-members ul li.edge {margin-right: 0;}
-.karolina {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/karolina-220-220.jpg');}
-.marta {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/marta-220-220.jpg');}
-.dominika {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/dominika-220-220.jpg')}
-.jarek {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/jarek-220-220.jpg');}
-.fernando {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/fernando-220-220.jpg');}
-.filip {background-image: url('http://contratiempo.besaba.com/wp-content/uploads/2016/02/filip-220-220.jpg');}
+.karolina {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/karolina-220-220.jpg');}
+.marta {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/marta-220-220.jpg');}
+.dominika {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/dominika-220-220.jpg')}
+.jarek {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/jarek-220-220.jpg');}
+.fernando {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/fernando-220-220.jpg');}
+.filip {background-image: url('http://contratiempo.pl/wp-content/uploads/2016/02/filip-220-220.jpg');}
 .band-members ul li a {width: 100%; height: 100%; display: block; position: relative;}
 .band-members ul li a div {background-color: rgba(0, 0, 0, 0.8); position: absolute; width: 100%; bottom: 0; padding: .76rem 1.5rem; color: #555; transition: color .5s, padding .5s, background-color .5s;}
 .band-members ul li a:hover div {background-color: rgba(0, 0, 0, 0.85); color: #666; padding: 1rem 1.7rem;}

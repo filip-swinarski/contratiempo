@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.pl
  Template:     twentyfifteen
- Version:      1.0.16 19.06.2018
+ Version:      1.0.17 19.06.2018
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -270,4 +270,10 @@ header.site-header {height: 2.63em;}
 /* social navigation */
 
 .social-navigation a::before {top: 12px;}
+
+/* pagination */
+
+.pagination .page-numbers.next {background-color: #000;}
+.pagination .nav-links {background-color: #000;}
+
 

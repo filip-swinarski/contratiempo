@@ -5,7 +5,7 @@
  Author:       Filip Swinarski
  Author URI:   http://filipswinarski.pl
  Template:     twentyfifteen
- Version:      1.0.15 26.02.2016
+ Version:      1.0.16 19.06.2018
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, left-sidebar, responsive-layout, accessibility-ready
@@ -172,7 +172,7 @@ header.site-header {height: 2.63em;}
 
 .site-header {padding-bottom: 4%; padding-top: 4%;}
 .widget_recent_entries ul li, .widget_archive ul li {position: relative;}
-.widget_recent_entries ul li::after, .widget_archive ul li::after {content: ""; display: block; position: absolute; bottom: -1px; height: 1px; width: 100%; display: block; transition: background-color 1s; background-color: transparent;}
+.widget_recent_entries ul li::after, .widget_archive ul li::after {content: ""; display: block; position: absolute; bottom: -1px; height: 1px; width: 100%; transition: background-color 1s; background-color: transparent;}
 .widget_recent_entries ul li:last-child::after, .widget_archive ul li:last-child::after {display: none;}
 .widget_recent_entries ul li:hover::after, .widget_archive ul li:hover::after {background-color: #220002; transition: background-color 1s;}
 .secondary-toggle {z-index: 2;}
@@ -266,3 +266,8 @@ header.site-header {height: 2.63em;}
 /* posts*/
 
 .post-thumbnail img {width: 100% !important; height: auto !important;}
+
+/* social navigation */
+
+.social-navigation a::before {top: 12px;}
+
